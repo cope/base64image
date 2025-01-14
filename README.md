@@ -11,7 +11,7 @@ The Browser must support the JavaScript File API.
 
 ## Installation
 
- 1. Download the plugin from http://github.com/nmmf/base64image
+ 1. Download the plugin from http://github.com/cope/base64image
  
  2. Extract (decompress) the downloaded file into the plugins folder of your
 	CKEditor installation.
